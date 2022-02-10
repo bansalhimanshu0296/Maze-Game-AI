@@ -4,7 +4,7 @@ This project was done as a part of CSCI-B-551 Elements of Artificial Intelligenc
 
 ## Command to run the program ##
 
-python3 route_pichu.sh <name of map>
+python3 route_pichu.sh [name of map]
 
 ## Abstractions Techniques that can be used ##
 
