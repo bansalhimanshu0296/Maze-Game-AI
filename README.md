@@ -8,7 +8,7 @@ python3 route_pichu.sh [name of map]
 
 ## Abstractions Techniques that can be used ##
 
-Another Abstraction technique I would have used could be the Breadth-First Search. But the problem with the Breadth-First Search is not an optimal algorithm for a maze solver problem, which means sometimes it does not give the optimal path.
+Another Abstraction technique I would have used could be the Depth-First Search. But the problem with the Breadth-First Search is not an optimal algorithm for a maze solver problem, which means sometimes it does not give the optimal path.
 
 ## Abstraction Technique Used ##
 
