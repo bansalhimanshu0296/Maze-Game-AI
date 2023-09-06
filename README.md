@@ -3,7 +3,7 @@
 This project was done as a part of CSCI-B-551 Elements of Artificial Intelligence Coursework under Prof. Dr. David Crandall.
 
 ## Problem
-Your goal is to write a program that finds the shortest path between the exit(represented by @)
+The goal is to write a program that finds the shortest path between the exit(represented by @)
 and you(represented by p) in a maze where X represents a wall through which you cannot pass. You can move one square at a time in any of the four principal
 compass directions, and the program should find the shortest distance between
 the two points and then output a string of letters (L, R, D, and U for left, right,
